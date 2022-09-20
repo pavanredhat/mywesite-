@@ -1,2 +1,0 @@
-# mywesite-
-print helloworld
